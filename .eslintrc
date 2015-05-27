@@ -1,6 +1,6 @@
 {
     "rules": {
-        "indent":                       [1, 4, {"indentSwitchCase": true}],
+        "indent":                       [1, 2, {"indentSwitchCase": true}],
         "quotes":                       [1, "single"],
         "linebreak-style":              [2, "unix"],
         "semi":                         [1, "always"],
@@ -13,7 +13,7 @@
         "spaced-line-comment":          [1, "always"],
         //"object-shorthand":             [1, "always"],
         "no-plusplus":                  [2, "always"],
-        "max-len":                      [1, 80, 4],
+        "max-len":                      [1, 80, 2],
         "eol-last":                     [1],
         "no-multiple-empty-lines":      [1, {"max": 1}]
     },
