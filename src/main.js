@@ -1,1 +1,3 @@
-console.warn('woot');
+import 'fetch';
+
+console.warn(`woot`);
